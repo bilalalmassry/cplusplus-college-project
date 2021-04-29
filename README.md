@@ -1,3 +1,2 @@
-# cplusplus-college-project
-# Hospital Management
+# Hospital Management Using C++
 2017
